@@ -67,7 +67,7 @@ fieldset legend, section h2 {
 fieldset button {
   width: fit-content;
   border: 0;
-  background: #F48F56;
+  background: #2cb5df;
   border-radius: 10px;
   padding: 7px 20px;
   font: 700 12px/24px 'Roboto',sans-serif;
@@ -75,7 +75,7 @@ fieldset button {
 }
 
 fieldset button:hover {
-  background: #f37c37;
+  background: #1990b8;
 }
 
 .lista-participantes {
